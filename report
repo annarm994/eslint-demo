@@ -1,6 +1,6 @@
 Report:
 
-##Steps Followed:
+Steps Followed:
 
 Initialized a new Node.js project using npm init.
 
@@ -14,6 +14,6 @@ Ran into an issue where ESLint couldn't find the eslint-config-airbnb package. R
 
 Updated the rules section in .eslintrc.js to wrap rule keys in quotes for consistency.
 
-##Observations:
+Observations:
 
 ESLint is a powerful tool that helps maintain code quality by enforcing coding standards, identifying syntax errors, and catching potential issues early in the development process. 
