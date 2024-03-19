@@ -1,0 +1,19 @@
+Report:
+
+##Steps Followed:
+
+Initialized a new Node.js project using npm init.
+
+Installed ESLint using npm install eslint --save-dev.
+
+Configured ESLint using npx eslint --init, selecting the option to check syntax, find problems, and enforce code style.
+
+Modified the ESLint configuration in .eslintrc.js to extend the airbnb configuration and added custom rules for semi-colons and quotes.
+
+Ran into an issue where ESLint couldn't find the eslint-config-airbnb package. Resolved it by installing eslint-config-airbnb using npm install eslint-config-airbnb --save-dev.
+
+Updated the rules section in .eslintrc.js to wrap rule keys in quotes for consistency.
+
+##Observations:
+
+ESLint is a powerful tool that helps maintain code quality by enforcing coding standards, identifying syntax errors, and catching potential issues early in the development process. 
